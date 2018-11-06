@@ -1,0 +1,2 @@
+# CocktailApp
+For school project
